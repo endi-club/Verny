@@ -17,6 +17,7 @@
         "noImplicitAny": false,
         "target": "ESNEXT",
         "jsx": "preserve",
+        "nodeResolution": "node",
 
         "baseUrl": "./src/",
         "paths": {
